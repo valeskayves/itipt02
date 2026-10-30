@@ -1,0 +1,7 @@
+{
+  "name": "Buldang",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
